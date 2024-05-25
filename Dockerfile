@@ -2,7 +2,7 @@
 ARG ARCH
 
 # 使用官方Python运行时作为父镜像
-FROM ${ARCH}/python:3.10-bullseye
+FROM ${ARCH}/python:3.10
 
 # 设置工作目录
 WORKDIR /app
