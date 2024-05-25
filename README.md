@@ -1,1 +1,1 @@
-m3e-large-api
+m3e-base-api
